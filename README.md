@@ -15,7 +15,8 @@ The application creates a team profile based on what the user inputd using thr I
 The user will need to clone the repository from GitHub and download node. This application also requires a file system and inquirer module. If testing is required, the application uses Jest. 
 
 ## Usage 
-Use inquirer from your command line to answer questions about your project.
+Use inquirer from your command line to answer questions about your project. View walk through video here - [Screencastify](https://drive.google.com/file/d/1tWZNaLaSKDgV-UohblVVEdnwex9nPzDj/view)<br>
+<img src="./assets/sample.png">
 
 ## License 
 
